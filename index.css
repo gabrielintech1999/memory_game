@@ -1,0 +1,12 @@
+
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 610px;
+  }
+  .card {
+    width: 150px;
+    height: 150px;
+ 
+    cursor: pointer;
+  }
