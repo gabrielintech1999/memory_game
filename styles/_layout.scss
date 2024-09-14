@@ -1,0 +1,10 @@
+.grid {
+   // border: 5px solid blue;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-inline: auto;
+    max-width: 27rem;
+   // min-width: 20rem;
+    border: 5px solid red;
+}
